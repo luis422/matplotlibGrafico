@@ -2,6 +2,9 @@
 #python -m pip install -U pip
 #python -m pip install -U matplotlib
 
+#para instalar a numpy no python do windows, dê o seguinte comando no terminal/cmd
+#python -m pip install --user numpy
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
