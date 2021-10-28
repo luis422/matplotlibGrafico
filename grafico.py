@@ -1,5 +1,7 @@
+#para instalar a matplotlib no python do windows, dê os seguintes comandos no terminal/cmd
 #python -m pip install -U pip
 #python -m pip install -U matplotlib
+
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import numpy as np
